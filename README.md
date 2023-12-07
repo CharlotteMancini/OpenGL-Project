@@ -1,1 +1,7 @@
-# OpenGL-Project
+Software is best designed with a methodical, iterative approach. OpenGL is new to me, and it was quite a challenge in the beginning, so I followed the steps in the same sequence as set by the assignments. 
+This allowed me to build layers of functionality that, when combined, create a scene that displays not only the required shapes, but one that also provides the functionality necessary to navigate the scene with direct user input from the keyboard and mouse. 
+In the future I plan to continue to work in layers as this provides modularity and organization to the source code. 
+ 
+I also created custom functions to streamline the repetitive process of creating objects, applying textures, etc. Reuseable custom functions enabled me to work efficiently in stages without recreating mountains of repetitious code. This project underwent several iterations, as many components must integrate with others, making iterative workflows crucial. My objective was to complete each basic task as I went, and by the last milestone, I was prepared to build the project scene. 
+ 
+As a future software engineer, understanding and utilizing computer science is my goal. I will take this new computer graphics and visualizations skillset with me for improved front end development, and using this knowledge as a foundation, I will learn 3JS to produce immersive experiences for software applications on many media platforms. 
